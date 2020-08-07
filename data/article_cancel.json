@@ -1,0 +1,5 @@
+{
+  "url":"http://ttapi.research.itcast.cn/app/v1_0/article/collections/100",
+  "headers":{"Content-Type":"application/x-www-form-urlencoded","Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTY1Mjk3MTgsInVzZXJfaWQiOjEyODkzOTQ1MDg1MDg2OTI0ODAsInJlZnJlc2giOmZhbHNlfQ.vJCKBn0ubDb_mkF112RwAhWxyP3pfsqArqXdXYezrSE"},
+  "status_code":204
+}
